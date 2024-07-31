@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @01appy
+- 👋 Hi, I’m Apoorva Navin
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me @navinapurva@gmail.com
